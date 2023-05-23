@@ -7,7 +7,6 @@ public class Token {
     public int getValue() {
         return this.value;
     }
-   //ajout
     public void setValue(int value) {
         this.value = value;
     }

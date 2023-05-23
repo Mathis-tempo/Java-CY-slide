@@ -6,9 +6,6 @@ public class ReadLevelGridCSV {
     private int[][] arrayTokenValue;
     private int lengthSide;
 
-    public void readCSV(int level){
-
-    }
     public ReadLevelGridCSV(String file, int level){
 
         String line;
