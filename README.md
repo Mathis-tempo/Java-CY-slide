@@ -9,7 +9,7 @@ The game features 10 unlockable levels of increasing difficulty depending on the
 - Intellij IDEA
 
 ## How to Compile/Run the Program
-1. Open the file on ItelliJ and and click on the "Run" button to run the program.
+1. Open the file on Intellij and and click on the "Run" button to run the program.
 2. To compile the documentation, in Intellij click on "Tools" and then select "Generate JavaDoc" from the dropdown menu. 
 This will create a `docs` folder containing the documentation files.
 
