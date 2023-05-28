@@ -6,29 +6,11 @@ The game features 10 unlockable levels of increasing difficulty depending on the
 
 ## Technologies Used
 - Java
+- Intellij IDEA
 
 ## How to Compile/Run the Program
-1. Ensure you have Java Development Kit (JDK) installed on your system.
-2. Clone the repository or download the source code files.
-3. Open a terminal or command prompt and navigate to the project directory.
-4. Compile the Java source files using the following command:
-```bash
-javac Main.java
-```
-5. Run the program using the following command:
-```bash
-java Main
-```
-
-## How to Compile the Documentation
-To generate the JavaDoc documentation for the project, follow these steps:
-1. Ensure you have Java Development Kit (JDK) installed on your system.
-2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the following command to generate the JavaDoc documentation:
-```bash
-javadoc *.java -d docs
-```
-
+1. Open the file on ItelliJ and and click on the "Run" button to run the program.
+2. To compile the documentation, in Intellij click on "Tools" and then select "Generate JavaDoc" from the dropdown menu. 
 This will create a `docs` folder containing the documentation files.
 
 ## How to Play
