@@ -26,7 +26,7 @@ To generate the JavaDoc documentation for the project, follow these steps:
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the following command to generate the JavaDoc documentation:
 ```bash
-javadoc -d docs *.java
+javadoc *.java -d docs
 ```
 
 This will create a `docs` folder containing the documentation files.
