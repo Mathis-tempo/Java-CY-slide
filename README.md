@@ -17,7 +17,7 @@ javac Main.java
 ```
 5. Run the program using the following command:
 ```bash
-javac Main
+java Main
 ```
 
 ## How to Compile the Documentation
